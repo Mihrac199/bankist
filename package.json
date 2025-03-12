@@ -1,14 +1,14 @@
 {
   "name": "bankist",
+  "description": "Bankist App",
+  "author": "Mihraç Comart",
   "version": "1.0.0",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Mihraç Comart",
   "license": "ISC",
-  "description": "Bankist App",
   "dependencies": {
     "parcel": "^2.13.3"
   }
